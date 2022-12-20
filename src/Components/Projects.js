@@ -64,6 +64,14 @@ const Projects = () => {
             </div>
           </div>
           <div className='border-gray-300 border-2 rounded-sm w-[85vw] sm:w-[25vw] flex flex-col m-2'>
+            <img className='w-full rounded-sm border-b-gray-200 border-2' src="https://github.com/Omjavir/portfolio/blob/master/public/ls7.png?raw=true" alt="Image1" />
+            <h3 className='sm:text-2xl text-xl font-semibold font-mono m-2'>Pagination</h3>
+            <div className='flex m-auto'>
+              <a target={'_blank'} href="http://pagination-with-reactjs.vercel.app/"><button className='m-2 bg-transparent border-gray-300 border-2 px-5 font-mono sm:text-2xl rounded-md underline'>Live</button></a>
+              <a target={'_blank'} href="https://github.com/Omjavir/pagination-with-reactjs"><button className='m-2 bg-transparent border-gray-300 border-2 px-5 font-mono sm:text-2xl rounded-md underline'>Code</button></a>
+            </div>
+          </div>
+          <div className='border-gray-300 border-2 rounded-sm w-[85vw] sm:w-[25vw] flex flex-col m-2'>
             <img className='w-full rounded-sm border-b-gray-200 border-2' src="https://github.com/Omjavir/portfolio/blob/master/public/ls2.png?raw=true" alt="Image1" />
             <h3 className='sm:text-2xl text-xl font-semibold font-mono m-2'>Netflix UI CLone</h3>
             <div className='flex m-auto'>
