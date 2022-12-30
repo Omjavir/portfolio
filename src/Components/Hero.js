@@ -1,10 +1,11 @@
 import React from 'react'
+import hero from '../Assets/hero.jpeg'
 
 const Hero = () => {
   return (
     <div className='sm:flex-row flex-col flex justify-center items-center align-middle text-center sm:pt-5 pt-10'>
       <div className='sm:w-[50vw] sm:p-20 p-2 w-full mx-auto flex justify-center'>
-        <img className='rounded-full' loading='lazy' src="https://github.com/Omjavir/portfolio/blob/master/public/hero.jpeg?raw=true" alt="Hero" />
+        <img className='rounded-full' loading='lazy' src={hero} alt="Hero" />
       </div>
       <div className='sm:w-[50vw] w-full  sm:pt-0 pt-10'>
         <h2 className='text-4xl sm:text-5xl font-serif'>Hi. I'm <b className='underline'>Om</b>.</h2>
