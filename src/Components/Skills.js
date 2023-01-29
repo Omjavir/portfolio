@@ -9,15 +9,16 @@ const Skills = () => {
             </div>
             <div className='w-[100%] flex justify-center sm:mt-10 mt-5'>
                 <div className='flex flex-wrap sm:w-[80%] w-[90%] justify-center'>
-                    <img className='w-[12vh] sm:m-7 m-5 sm:w-[20vh]' src="https://seeklogo.com/images/H/html5-without-wordmark-color-logo-14D252D878-seeklogo.com.png" alt="" />
-                    <img className='w-[12vh] sm:m-7 m-5 sm:w-[20vh]' src="https://seeklogo.com/images/C/css-3-logo-023C1A7171-seeklogo.com.png" alt="" />
-                    <img className='w-[12vh] sm:m-7 m-5 sm:w-[20vh]' src="https://seeklogo.com/images/J/javascript-js-logo-2949701702-seeklogo.com.png" alt="" />
-                    <img className='w-[12vh] sm:m-7 m-5 sm:w-[20vh]' src="https://seeklogo.com/images/R/react-logo-7B3CE81517-seeklogo.com.png" alt="" />
-                    <img className='w-[12vh] sm:m-7 m-5 sm:w-[20vh]' src="https://seeklogo.com/images/C/c-logo-1B1817C041-seeklogo.com.png" alt="" />
-                    <img className='w-[12vh] sm:m-7 m-5 sm:w-[20vh]' src="https://seeklogo.com/images/L/Linux_Tux-logo-DA252F3C21-seeklogo.com.png" alt="" />
-                    <img className='w-[12vh] sm:m-7 m-5 sm:w-[20vh]' src="https://seeklogo.com/images/G/git-logo-A1D01DDA30-seeklogo.com.png" alt="" />
-                    <img className='w-[12vh] sm:m-7 m-5 sm:w-[20vh]' src="https://seeklogo.com/images/B/bootstrap-logo-3C30FB2A16-seeklogo.com.png" alt="" />
-                    <img className='w-[12vh] sm:m-7 m-5 sm:w-[20vh]' src="https://seeklogo.com/images/T/tailwind-css-logo-5AD4175897-seeklogo.com.png" alt="" />
+                    <img className='object-contain w-[12vh] sm:m-7 m-5 sm:w-[20vh]' src="https://seeklogo.com/images/H/html5-without-wordmark-color-logo-14D252D878-seeklogo.com.png" alt="" />
+                    <img className='object-contain w-[12vh] sm:m-7 m-5 sm:w-[20vh]' src="https://seeklogo.com/images/C/css-3-logo-023C1A7171-seeklogo.com.png" alt="" />
+                    <img className='object-contain w-[12vh] sm:m-7 m-5 sm:w-[20vh]' src="https://seeklogo.com/images/J/javascript-js-logo-2949701702-seeklogo.com.png" alt="" />
+                    <img className='object-contain w-[12vh] sm:m-7 m-5 sm:w-[20vh]' src="https://seeklogo.com/images/R/react-logo-7B3CE81517-seeklogo.com.png" alt="" />
+                    <img className='object-contain w-[12vh] sm:m-7 m-5 sm:w-[20vh]' src="https://seeklogo.com/images/C/c-logo-1B1817C041-seeklogo.com.png" alt="" />
+                    <img className='object-contain w-[12vh] sm:m-7 m-5 sm:w-[20vh]' src="https://seeklogo.com/images/L/Linux_Tux-logo-DA252F3C21-seeklogo.com.png" alt="" />
+                    <img className='object-contain w-[12vh] sm:m-7 m-5 sm:w-[20vh]' src="https://seeklogo.com/images/G/git-logo-A1D01DDA30-seeklogo.com.png" alt="" />
+                    <img className='object-contain w-[12vh] sm:m-7 m-5 sm:w-[20vh]' src="https://seeklogo.com/images/S/sass-logo-E41E7734A8-seeklogo.com.png" alt="" />
+                    <img className='object-contain w-[12vh] sm:m-7 m-5 sm:w-[20vh]' src="https://seeklogo.com/images/B/bootstrap-logo-3C30FB2A16-seeklogo.com.png" alt="" />
+                    <img className='object-contain w-[12vh] sm:m-7 m-5 sm:w-[20vh]' src="https://seeklogo.com/images/T/tailwind-css-logo-5AD4175897-seeklogo.com.png" alt="" />
                 </div>
             </div>
         </div>

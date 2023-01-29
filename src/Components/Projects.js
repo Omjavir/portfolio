@@ -78,7 +78,7 @@ const Projects = () => {
             <img loading='lazy' className='w-full rounded-sm border-b-gray-200 border-2' src={ls7} alt="Image1" />
             <h3 className='sm:text-2xl text-xl font-semibold font-mono m-2'>Pagination</h3>
             <div className='flex m-auto'>
-              <a target={'_blank'} href="http://pagination-with-reactjs.vercel.app/"><button className='m-2 bg-transparent border-gray-300 shadow-md border-2 px-5 font-mono sm:text-2xl rounded-md underline'>Live</button></a>
+              <a target={'_blank'} href="https://pagination-alpha-one.vercel.app/"><button className='m-2 bg-transparent border-gray-300 shadow-md border-2 px-5 font-mono sm:text-2xl rounded-md underline'>Live</button></a>
               <a target={'_blank'} href="https://github.com/Omjavir/pagination-with-reactjs"><button className='m-2 bg-transparent border-gray-300 shadow-md border-2 px-5 font-mono sm:text-2xl rounded-md underline'>Code</button></a>
             </div>
           </div>
